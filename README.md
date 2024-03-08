@@ -4,7 +4,7 @@
 
 - Supervisor: Yun-Cheng Tsai, Yu-Feng Sun
 
-- Code Contributor: Hsing-Tzu Ko, Yan-Gu Liu, Teng-Qi Li, Guan-Xiu Lin, Yun-Cheng Tsai
+- Code Contributor: Hsing-Tzu Ko, Yen-Ku Liu, Teng-Qi Li, Guan-Xiu Lin, Yun-Cheng Tsai
 
 #### In conclusion, we've achieved the application of Language Models plus Retrieval Augmented Generation (RAG) for programming language learning, aimed at assisting beginners with overcoming the confusion that can escalate when querying ChatGPT.
 
